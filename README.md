@@ -10,3 +10,4 @@ Process of doing git push:
 4. git log or git log --oneline
 5. git push origin main
 
+**git push**: This command is used to push commits from your local repository to a remote repository.
