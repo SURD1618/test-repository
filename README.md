@@ -3,6 +3,10 @@ this is a test description
 
 This is a new edit from my local computer.
 
+Process of doing git push:
+1. git add README.md
+2. git status
+3. git commit -m "Second update"
+4. git log or git log --oneline
+5. git push origin main
 
-
-deleted the previous line 
